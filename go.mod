@@ -1,3 +1,3 @@
-module github.com/sigitb/go-say-hello/v2
+module github.com/sigitb/go-say-hello/v3
 
 go 1.18
